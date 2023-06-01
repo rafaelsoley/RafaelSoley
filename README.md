@@ -1,8 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on [My Personal Portfolio](https://rafaelsoley.github.io)<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Muscle Points<br><br>👨‍💻 All of my projects are available at [rafaelsoley.github.io](https://rafaelsoley.github.io)<br><br>💬 Ask me about NodeJS Development<br><br>📫 Reach me at rafael.soley@treeoflifelearning.com<br>
 
-<!-- 
+
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=Rafaelsoley&icon=2&color=4)](https://visitcount.itsvg.in)
+<!--
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/developers) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rafaelsoley) 
 -->
 
@@ -19,9 +21,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rafaelsoley&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rafaelsoley&icon=2&color=4)](https://visitcount.itsvg.in)
