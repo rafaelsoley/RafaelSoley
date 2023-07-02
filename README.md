@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about NodeJS Development<br><br>📫 Reach me at rafael.soley@icloud.com<br>
+🔭 I’m currently working on my portfolio<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about NodeJS Development<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
